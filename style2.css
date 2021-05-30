@@ -1,0 +1,80 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    background-image: url(https://i.pinimg.com/originals/8e/5c/ed/8e5ceda4b7d54e17589254d998f0cef3.jpg);
+}
+
+
+.paimon {
+    background-image: url("https://sun9-57.userapi.com/grIK7hYzg_NpsAfAI34q9N_MnbISFJdH6Y6bOQ/no7ewhkSKyw.jpg");
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    min-height: 10px;
+    background-size: cover;
+    position: fixed;
+    display: block;
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    margin: auto;
+    background-size: cover;
+}
+
+h1 {
+    width: 855px;
+    height: 100px;
+    color: black;
+    text-align: center;
+    font-family: 'Monotype Corsiva';
+    margin: auto;
+    padding: 10px;
+    border: 3px double #FF6145;
+    font-size: 45px;
+    background-color: #A5F37B;
+    transition: 1;
+}
+
+h1:visited {
+    color: #47C143;
+}
+
+h1:hover {
+    color: #EBFFB1;
+}
+
+h2 {
+    width: 855px;
+    height: 100px;
+    color: black;
+    text-align: center;
+    font-family: 'Monotype Corsiva';
+    margin: auto;
+    padding: 10px;
+    border: 3px double #FF6145;
+    font-size: 45px;
+    background-color: red;
+}
+
+p1 {
+    width: 855px;
+    height: 100px;
+    color: black;
+    text-align: center;
+    font-family: 'Monotype Corsiva';
+    margin: auto;
+    padding: 10px;
+    font-size: 45px;
+    margin: 30px 0 20px;
+}
+
+p2 {
+    font-size: 1.17em;
+    line-height: 1.7;
+    color: #333;
+    padding: 0 5px;
+    margin-bottom: 25px;
+    margin: 30px 0 20px;
+    font-family: 'Monotype Corsiva';
+    color: blue;
+}
