@@ -1,0 +1,59 @@
+ h1 {
+     width: 855px;
+     height: 100px;
+     color: #FF6145;
+     text-align: center;
+     font-family: 'Monotype Corsiva';
+     margin: auto;
+     padding: 10px;
+     border: 3px double #FF6145;
+     font-size: 45px;
+     background-color: #A5F37B;
+     transition: 1;
+ }
+
+ h1:visited {
+     color: #47C143;
+ }
+
+ h1:hover {
+     color: #EBFFB1;
+ }
+
+ .menu {
+     background-color: #D5D987;
+     width: 860px;
+     height: 35px;
+     margin: 10px auto;
+     padding: 10px;
+     text-align: center;
+ }
+
+ a5 {
+     color: #FF6145;
+     font-family: 'Calibri';
+     font-size: 25px;
+     font-style: italic;
+     text-decoration: none;
+     margin: 0px 25px;
+     transition: 0.5s;
+     width: 120px;
+     display: inline-block;
+     transition: 1;
+ }
+
+ a5:visited {
+     color: #47C143;
+ }
+
+ a5:hover {
+     color: #EBFFB1;
+ }
+
+ body {
+     background-color: burlywood;
+ }
+
+ .a {
+     color: black;
+ }
